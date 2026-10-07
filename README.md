@@ -1,10 +1,11 @@
-> **Epitech project — `G-OOP-400` (`raytracer`)**
+> **Epitech · `G-OOP-400` ("raytracer")** — team project built with
+> [Sores-ss](https://github.com/Sores-ss) and
+> [maxlabinche](https://github.com/maxlabinche).
 >
-> Built with [Sores-ss](https://github.com/Sores-ss), [maxlabinche](https://github.com/maxlabinche).
-> I contributed to the rendering core and the scene handling.
+> **My role:** the rendering core and scene handling.
 >
-> This is my own copy of the assignment repository, published here as a
-> portfolio piece. The original repository is private.
+> This repository is my own copy of the assignment, published as a portfolio
+> piece. The original repository is private.
 
 ---
 
