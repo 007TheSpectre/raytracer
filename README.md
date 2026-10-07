@@ -1,3 +1,7 @@
+# Raytracer
+
+A ray tracer written in C++ for the Epitech G-OOP-400 project.
+
 > **Epitech · `G-OOP-400` ("raytracer")** — team project built with
 > [Sores-ss](https://github.com/Sores-ss) and
 > [maxlabinche](https://github.com/maxlabinche).
@@ -6,12 +10,6 @@
 >
 > This repository is my own copy of the assignment, published as a portfolio
 > piece. The original repository is private.
-
----
-
-# Raytracer
-
-A ray tracer written in C++ for the Epitech G-OOP-400 project.
 
 ---
 
