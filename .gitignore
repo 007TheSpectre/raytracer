@@ -1,0 +1,5 @@
+build/
+raytracer
+*.o
+*.ppm
+
